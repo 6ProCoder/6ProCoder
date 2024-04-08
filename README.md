@@ -4,4 +4,4 @@
 
 first of all you should know that the dialect I put in my codes is Greek English so the translation will be difficult so you should know Greek
 
-Αυτά τέλος/That's it
+That's it/Αυτά τέλος
